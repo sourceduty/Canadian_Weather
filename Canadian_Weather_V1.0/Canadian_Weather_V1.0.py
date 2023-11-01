@@ -1,4 +1,4 @@
-# Canadian_Weather
+# Canadian_Weather V1.0
 
 # 🌤️ Displaying the average provincial temperature and the current temperatures for cities in Canada.
 
