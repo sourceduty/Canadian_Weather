@@ -1,3 +1,10 @@
+# Canadian_Weather
+
+# 🌤️ Displaying the average provincial temperature and the current temperatures for cities in Canada.
+
+# Copyright (C) 2023,  Sourceduty - All Rights Reserved.
+# This software is free and open-source; anyone can redistribute it and/or modify it.
+
 import folium
 import requests
 
